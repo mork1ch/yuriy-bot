@@ -1,0 +1,25 @@
+{
+  "name": "ds-bot",
+  "version": "1.0.0",
+  "description": "бот для сервера",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mork1ch/yuriy-bot.git"
+  },
+  "author": "Mork1ch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mork1ch/yuriy-bot/issues"
+  },
+  "homepage": "https://github.com/mork1ch/yuriy-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
